@@ -1,1 +1,3 @@
 # maroc
+
+Concessions for Manganese
